@@ -1,0 +1,11 @@
+{
+	"id": "Obsidian-JayWay",
+	"name": "Obsidian-JayWay",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Publish notes to selected platforms.",
+	"author": "Rainbowl",
+	"authorUrl": "https://github.com/Rainbowljimo",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": true
+}
