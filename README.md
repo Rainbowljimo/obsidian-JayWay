@@ -3,7 +3,6 @@
 This is a local Obsidian plugin that allows posting content from markdown notes to social platforms via their APIs.
 
 Currently supported:
-- Discord
 - Tumblr
 - Bluesky
 
