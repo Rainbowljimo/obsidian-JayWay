@@ -1,7 +1,6 @@
 # Obsidian Jay-Way (Prototype)
 
-This is a local Obsidian plugin that allows posting text-based content
-from markdown notes to social platforms via their APIs.
+This is a local Obsidian plugin that allows posting content from markdown notes to social platforms via their APIs.
 
 Currently supported:
 - Discord
