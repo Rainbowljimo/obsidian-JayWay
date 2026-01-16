@@ -31,16 +31,12 @@ const context = await esbuild.context({
 		"@lezer/common",
 		"@lezer/highlight",
 		"@lezer/lr",
-<<<<<<< HEAD
         "node:http",
         "node:https",
         "node:crypto",
         "node:url",
         "node:fs",
 		...builtins],
-=======
-		...builtinModules],
->>>>>>> dc2fa22c4d279199fb07a205a0c11eb155641f3d
 	format: "cjs",
 	target: "es2018",
 	logLevel: "info",
