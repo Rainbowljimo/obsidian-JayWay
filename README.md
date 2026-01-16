@@ -23,8 +23,9 @@ Authentication is handled locally, and posts are submitted only when explicitly
 triggered by the user from Obsidian.
 
 ## Status
-This project is experimental and under active development.
+This Obsidian is experimental and under active development. It is based on the [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin)
 It is not intended for large-scale automation or third-party use.
+Based on 
 
 ## Obsidian API Documentation
 See https://github.com/obsidianmd/obsidian-api
